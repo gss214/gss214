@@ -1,10 +1,11 @@
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+ </div>
   <br><br>
   <samp>
     I'm Guilherme Silva Souza. Welcome to my Github!
     <br><br>
-    I'm a Computer Science student at the 5th semester
+    I'm a Computer Science student at the 7th semester
   </samp>
 </p>
 
