@@ -16,7 +16,7 @@
 <details>
   <summary> GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Guilherme Silva Souza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gss214&show_icons=true&theme=dracula" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Guilherme Silva Souza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gss214&hide=javascript,html,java&show_icons=true&theme=dracula" /></a>
 </details>
 
 <details>
