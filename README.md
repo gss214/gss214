@@ -5,11 +5,9 @@
   <samp>
     I'm Guilherme Silva Souza. Welcome to my Github!
     <br><br>
-    I'm a Computer Science student at the 7th semester
+    I'm a Computer Science student
   </samp>
 </p>
-
-<br>
 
 ##  Github Stats
 
@@ -30,7 +28,6 @@
 
  **📫 Reach me at:**<br>
 
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/opakholis)](https://twitter.com/guilhermedbr)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opakholis/)](https://www.linkedin.com/in/guilhermesouza214/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14863?style=flat-square&logo=Gmail&logoColor=white)](mailto:gss214.gs@gmail.com)
   
