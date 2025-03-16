@@ -5,7 +5,7 @@
   <samp>
     I'm Guilherme Silva Souza. Welcome to my Github!
     <br><br>
-    I'm a Computer Science student
+    I'm a Bachelor's Degree in Computer Science
   </samp>
 </p>
 
